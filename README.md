@@ -139,10 +139,11 @@ Google Trends provides **search interest signals** reflecting market sentiment.
 
 Example keywords:
 
-* "house price Malaysia"
-* "buy house Malaysia"
-* "home loan Malaysia"
-* "property Malaysia"
+* "beli rumah"
+* "Property for sale"
+* "Terrace house"
+* "House for sale a"
+* "Rumah untuk dijual"
 
 ---
 
